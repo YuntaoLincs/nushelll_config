@@ -1,0 +1,24 @@
+h | find "npm"
+help
+help commands
+history
+history | find "npm"
+help
+history | where command =~ "npm"
+history | where command =~ "npx"
+ls
+node "c:\linyuntao\note\test.js"
+exit
+pwsh node "c:\linyuntao\note\test.js"
+bash node "c:\linyuntao\note\test.js"
+exit
+nu node "c:\linyuntao\note\test.js"
+node "c:\\linyuntao\\note\\test.js"
+find config.nu
+wheris config.nu
+where config.nu
+echo $nu.config-path
+code $nu.config-path
+vim $nu.config-path
+edit $nu.config-path
+exit
