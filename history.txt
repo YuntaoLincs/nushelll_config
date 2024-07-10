@@ -22,3 +22,21 @@ code $nu.config-path
 vim $nu.config-path
 edit $nu.config-path
 exit
+s node "c:\\linyuntao\\note\\test.js"
+s node "c:\linyuntao\note\test.js"
+s
+ls
+s
+source
+exit
+config set edit_mode vim
+ls
+exit
+vim
+exit
+s node "c:\linyuntao\note\test.js"
+exit
+s
+s node "c:\linyuntao\note\test.js"
+s
+git status
